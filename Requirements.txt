@@ -1,4 +1,4 @@
-Git Commads:
+Git Commands:
 
 1-git config --global user.email 'your_email'
 2-git config --global user.name 'your_name'
