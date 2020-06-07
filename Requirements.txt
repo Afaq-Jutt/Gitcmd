@@ -1,11 +1,11 @@
 Git Commands:
 
-1-git config --global user.email 'afaqjutt724@gmail.com'
-2-git config --global user.name 'Afaq Jutt'
+1-git config --global user.email 'your_email'
+2-git config --global user.name 'your-name'
 3-git init
 4-git add [Filename] || -A
 5-git status
-6-git commit -m 'Reauirements.txt & index.html'
+6-git commit -m 'Reauirements.txt'
 7-git remote add origin https://github.com/Afaq-Jutt/HackZilla.git
 8-git push origin master
 9-git clone reponame
